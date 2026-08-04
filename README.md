@@ -7,6 +7,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
