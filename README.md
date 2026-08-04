@@ -7,6 +7,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3731-find-missing-elements](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -65,10 +67,12 @@
 | [0316-remove-duplicate-letters](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Anushka22-lab/My_DSA_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
